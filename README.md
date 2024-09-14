@@ -1,1 +1,2 @@
 # Power-BI-Call-Center
+#### This project provides a detailed analysis of key call center metrics, such as the number of calls answered and resolved, average speed of answer, and average satisfaction ratings. It tracks performance by agents, showing call handling efficiency and customer satisfaction. Visualizations help to monitor call volumes over time, agent response speed, and resolution rates, providing valuable insights into operational efficiency and opportunities for improving customer service quality.
